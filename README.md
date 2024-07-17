@@ -1,6 +1,6 @@
 # Web_Event
 Front End of Event Management Website
 
-Slider used: SwiperJS
-Fonts: Awesome Fonts
-Website Hosted at: 
+Slider used: SwiperJS <br/>
+Fonts: Awesome Fonts <br/>
+Website Hosted at: link <br/>
